@@ -22,3 +22,10 @@ How can we provide precision medicine – the holy grail of modern medicine – 
 - Two major risks need to be mitigated:
   - 1. Potential Competition Risk 
   - 2. Compliance Risk
+
+## Authors
+- Luping Wang
+- Tiffany Hu
+- ![Chuxuan Quan](https://github.com/amoroma-bb)
+- Bohao Wu
+- Ye Tian
